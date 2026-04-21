@@ -1,0 +1,6 @@
+{
+	"name": "Monia-selfHosted",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

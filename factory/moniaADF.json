@@ -1,0 +1,9 @@
+{
+	"name": "moniaADF",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e59fb750-92e2-41f7-a42b-4fc31cbe3e53",
+		"tenantId": "f7b3a9d0-1d2c-4d7b-80c1-36a5fea1952a"
+	}
+}
